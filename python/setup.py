@@ -1,4 +1,3 @@
-
 setup(
     name='graphframes',
     version='0.8.2',
